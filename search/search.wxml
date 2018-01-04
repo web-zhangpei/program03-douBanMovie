@@ -1,0 +1,6 @@
+<view class="section">
+  <input placeholder-style="color:red" placeholder="电影/演员/导演" confirm-type="search" bindconfirm='search'/>
+</view>
+<view wx:for="{{result}}">
+{{item.title}}
+</view>

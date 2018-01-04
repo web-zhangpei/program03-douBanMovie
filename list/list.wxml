@@ -1,0 +1,14 @@
+<view class="listItem">
+<!--视图结构  -->
+  <image></image>
+  <view class="conTxt">
+    <view class="title">标题</view>
+    <view class="star">评分</view>
+    <view class="author">导演</view>
+    <text class="yanyuan">主演</text>
+  </view>
+  <view class="rightBtn">
+    <view>看过</view>
+    <view>购票</view>
+  </view>
+</view>
